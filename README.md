@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, There I'm Fauzi Salam 👋
 
-<!--
-**UJ1K/UJ1K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Geospatial Analyst and Remote Sensing researcher currently finishing my degree at **Universitas Gadjah Mada**. My work centers on using satellite imagery and Python-based automation to solve complex environmental challenges.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills
+- **Cloud Computing:** Google Earth Engine (GEE)
+- **Programming:** Python (Pandas, Matplotlib, GDAL), Javascript, SQLite 
+- **Specialization:**  Atmospheric Remote Sensing, GIS Modeling
+- **Software:**  ArcGIS and QGIS
+  
+Reach me on: 
+https://www.kaggle.com/defaultujijk
+https://www.linkedin.com/in/fauzi-s-367150258/
+[fauzisalam45@gmail.com]
