@@ -1,6 +1,6 @@
 # Hi, There I'm Fauzi 👋
 
-I am a Geospatial Analyst and Remote Sensing researcher currently finishing my degree at **Universitas Gadjah Mada**. My work centers on using satellite imagery and Python-based automation to solve complex environmental challenges.
+I am a Geospatial Analyst and Remote Sensing researcher. Currently, I'm on **Universitas Gadjah Mada**. My work centers on using satellite imagery and Python-based automation to solve complex environmental challenges.
 
 ### 🚀 Technical Skills
 - **Cloud Computing:** Google Earth Engine (GEE)
