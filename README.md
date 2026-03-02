@@ -12,7 +12,7 @@ Current Focus: **Universitas Gadjah Mada** | Satellite Imagery & Python Automati
 ## 🚀 About Me
 I specialize in solving complex environmental challenges through the lens of spatial data. From atmospheric remote sensing to GIS modeling, I build automated workflows to extract insights from the earth's surface.
 
-* 🔭 **Currently working on:** Satellite imagery processing at UGM.
+* 🔭 **Currently working on:** Satellite imagery processing to climate.
 * 🌱 **Learning:** Advanced GIS Backend services & High-performance computing.
 * 💬 **Ask me about:** Google Earth Engine, Python for GIS, and Climate Management.
 
