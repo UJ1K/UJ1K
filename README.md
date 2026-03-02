@@ -1,8 +1,5 @@
 # Hi, there! I'm Fauzi 👋
 
-<p align="center">
-  <img src="https://your-custom-banner-url.com/banner.png" alt="Building the Future of Remote Sensing" width="100%">
-</p>
 
 ### 🛰️ Geospatial Analyst & Remote Sensing Researcher
 Current Focus: **Universitas Gadjah Mada** | Satellite Imagery & Python Automation
