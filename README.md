@@ -2,7 +2,7 @@
 
 
 ### 🛰️ Geospatial Analyst & Remote Sensing Researcher
-Current Focus: **Universitas Gadjah Mada** | Satellite Imagery & Python Automation
+ **Universitas Gadjah Mada** | Satellite Imagery & Python Automation
 
 ---
 
