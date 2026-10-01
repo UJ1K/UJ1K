@@ -4,8 +4,6 @@
 ### 🛰️ Geospatial Analyst & Remote Sensing Researcher
 🎓 **Universitas Gadjah Mada** | 🌍 Spatial Data | 🐍 Python Automation
 
-I specialize in solving complex environmental challenges through spatial data. From atmospheric remote sensing to GIS modeling, I build automated workflows to extract actionable insights from the Earth's surface.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzi-s-367150258/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/defaultuj1k)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fauzisalam45@gmail.com)
