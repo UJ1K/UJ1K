@@ -1,4 +1,5 @@
 <div align="center">
+  
 ### 🛰️ Geospatial Analyst & Remote Sensing Researcher
 🎓 **Universitas Gadjah Mada** | 🌍 Spatial Data | 🐍 Python Automation
 
