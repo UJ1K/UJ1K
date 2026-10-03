@@ -1,7 +1,7 @@
 <div align="center">
   
 ### 🛰️ Geospatial Analyst & Remote Sensing Researcher
-🎓 **Universitas Gadjah Mada** | 🌍 Spatial Data | 🐍 Python Automation
+🎓 **Bachelor of Science - Universitas Gadjah Mada** | 🌍 Spatial Data | 🐍 Python Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzi-s-367150258/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/defaultuj1k)
@@ -9,6 +9,6 @@
 
 
 ## 📂 Featured Projects
-* 🌍 **[Map-Navigation-Tools](https://github.com/UJ1K/Map-Navigation-Tools)**: Interactive Web GIS for network analysis, built with React and OpenLayers.
-* ☁️ **[Himawari](https://github.com/UJ1K/Himawari)**: Python-based cloud segmentation pipeline utilizing JAXA Himawari-8/9 satellite data.
-* 📈 **[Sentiment Analysis](https://github.com/UJ1K/Sentiment_Analysis_For_Business)**: Data-driven decision making and business insights leveraging Natural Language Processing.
+ ➤🌍 **[Map-Navigation-Tools](https://github.com/UJ1K/Map-Navigation-Tools)**: Interactive Web GIS for network analysis, built with React and OpenLayers.
+ ➤☁️ **[Himawari](https://github.com/UJ1K/Himawari)**: Python-based cloud segmentation pipeline utilizing JAXA Himawari-8/9 satellite data.
+ ➤📈 **[Sentiment Analysis](https://github.com/UJ1K/Sentiment_Analysis_For_Business)**: Data-driven decision making and business insights leveraging Natural Language Processing.
