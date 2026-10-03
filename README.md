@@ -14,7 +14,5 @@
  ➤ 📈 **[Sentiment Analysis](https://github.com/UJ1K/Sentiment_Analysis_For_Business)**: Data-driven decision making and business insights leveraging Natural Language Processing.
 
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{UJ1K}/count.svg" alt="Visitor's Count" />
-</div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=UJ1K&style=flat-square&color=005E95&label=PROFILE+VIEWS)
