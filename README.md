@@ -15,4 +15,4 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=UJ1K&style=flat-square&color=005E95&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=UJ1K&style=plastic&color=blue&label=VISITS)
