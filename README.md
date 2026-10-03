@@ -9,6 +9,6 @@
 
 
 ## 📂 Featured Projects
- ➤ 🌍 **[Map-Navigation-Tools](https://github.com/UJ1K/Map-Navigation-Tools)**: Interactive Web GIS for network analysis, built with React and OpenLayers.<br><br>
- ➤ ☁️ **[Himawari](https://github.com/UJ1K/Himawari)**: Python-based cloud segmentation pipeline utilizing JAXA Himawari-8/9 satellite data.<br><br>
+ ➤ 🌍 **[Map-Navigation-Tools](https://github.com/UJ1K/Map-Navigation-Tools)**: Interactive Web GIS for network analysis, built with React and OpenLayers.<br>
+ ➤ ☁️ **[Himawari](https://github.com/UJ1K/Himawari)**: Python-based cloud segmentation pipeline utilizing JAXA Himawari-8/9 satellite data.<br>
  ➤ 📈 **[Sentiment Analysis](https://github.com/UJ1K/Sentiment_Analysis_For_Business)**: Data-driven decision making and business insights leveraging Natural Language Processing.
