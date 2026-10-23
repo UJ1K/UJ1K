@@ -7,4 +7,5 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=UJ1K&repo=UJ1K%2Fopensource-batasadministrasi&show_owner=true&description_lines_count=3&theme=dracula)](https://github.com/UJ1K/opensource-batasadministrasi)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=UJ1K&repo=UJ1K%2Fthirdimpacted-now&show_owner=true&description_lines_count=3&theme=dracula)](https://github.com/UJ1K/thirdimpacted-now)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzi-salam-367150258) <img src="https://komarev.com/ghpvc/?username=UJ1K&style=for-the-badge&labelColor=000033&color=000033&label=PROFILE+VIEWS" width="250" alt="Profile Views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzi-salam-367150258) 
+[!<img src="https://komarev.com/ghpvc/?username=UJ1K&style=for-the-badge&labelColor=000033&color=000033&label=PROFILE+VIEWS" width="250" alt="Profile Views" />]
