@@ -1,11 +1,9 @@
 <div align="center">
   
-### 🛰️ Geospatial Analyst & Remote Sensing Researcher
-🎓 **Bachelor of Science - Universitas Gadjah Mada** | 🌍 Spatial Data | 🐍 Python Automation
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=UJ1K&rank_icon=percentile&custom_title=My%20Productivity%3A&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=aura_dark)](https://github-stats-extended.vercel.app/api?username=UJ1K&rank_icon=percentile&custom_title=My%20Productivity%3A&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=aura_dark)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzi-s-367150258/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/defaultuj1k)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fauzisalam45@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzi-salam-367150258)
+
 
 
 ## 📂 Featured Projects
