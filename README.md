@@ -2,10 +2,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauzi-salam-367150258)
 ![Profile Views](https://komarev.com/ghpvc/?username=UJ1K&style=for-the-badge&labelColor=000033&color=000033&label=PROFILE+VIEWS)
-<a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/144226015' target="_clean">
-  Follow me on
-  <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
-</a>
+<style>
+  .strava-badge- { display: inline-block; height: 32px; }
+  .strava-badge- img { visibility: hidden; height: 32px; }
+  .strava-badge-:hover { background-position: 0 -47px; }
+  .strava-badge-follow { height: 32px; width: 32px; background: url(//badges.strava.com/echelon-sprite-32.png) no-repeat 0 0; }
+</style>
+<a href="https://strava.com/athletes/144226015" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-32.png" alt="Strava" /></a>
 
 <br>
 
